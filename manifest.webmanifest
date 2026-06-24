@@ -1,0 +1,21 @@
+{
+  "name": "Trailblaze Tracker",
+  "short_name": "Trailblaze",
+  "description": "A local-first productivity tracker for missions, rituals, focus sessions, and calendar planning.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#04091a",
+  "theme_color": "#04091a",
+  "categories": ["productivity", "utilities"],
+  "shortcuts": [
+    {
+      "name": "Dashboard",
+      "url": "./index.html"
+    },
+    {
+      "name": "Calendar",
+      "url": "./index.html#calendar"
+    }
+  ]
+}
