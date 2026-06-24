@@ -2,7 +2,7 @@
 
 A Honkai: Star Rail–themed productivity PWA built during a 15-day internship. Track habits, manage tasks, level up your Trailblazer, and stay consistent — all with an HSR aesthetic.
 
-**Live demo:** [hsr-trailblaze-tracker.netlify.app](https://hsr-trailblaze-tracker.netlify.app)
+**Live demo:** [manunibhavsar.github.io/trailblaze-tracker](https://manunibhavsar.github.io/trailblaze-tracker)
 
 ---
 
